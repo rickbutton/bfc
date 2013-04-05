@@ -3,7 +3,7 @@
 int main(int argc, char *argv[]) {
 
   if (argc != 3) {
-    printf("Usage: compile in.bf out.c");
+    printf("Usage: bfc in.bf out.c");
     return;
   }
 
